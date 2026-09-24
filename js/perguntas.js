@@ -18,31 +18,31 @@ export const perguntas = [
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "Quais são dois princípios básicos do SUS que garantem que todos têm direito ao atendimento e que quem precisa de mais cuidado recebe atenção prioritária?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Universalidade: Garantia de que todos os cidadãos têm direito de usar o SUS.",
+                    afirmacao: "A Universalidade significa que a saúde pública no Brasil é para todo mundo, sem exceções ou necessidade de pagar."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Equidade: Tratamento prioritário e diferenciado para quem mais necessita de cuidados. ",
+                    afirmacao: "A Equidade significa ter foco nas necessidades de cada um, oferecendo mais ajuda a quem se encontra em situação de maior vulnerabilidade."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Quais são duas ações fundamentais da Saúde Pública para prevenir o aparecimento e a transmissão de doenças na população?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Vacinação em massa: Protege a população contra diversas doenças infecciosas e evita epidemias.",
+                    afirmacao: "A vacinação em massa é uma das medidas preventivas mais eficazes da saúde pública, pois gera imunidade coletiva e impede que vírus e bactérias voltem a circular na sociedade."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Eliminação de água parada: Ação de combate e prevenção ao mosquito transmissor da Dengue, Zika e Chikungunya.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "A eliminação de água parada é uma medida essencial de vigilância em saúde, reduzindo os criadouros do mosquito Aedes aegypti e protegendo toda a comunidade contra arboviroses."
                 }    
                
             ]
