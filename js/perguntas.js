@@ -4,9 +4,11 @@ export const perguntas = [
 
         alternativas: [
             {
-                texto: "Ampliar o acesso da população aos serviços de saúde"
+                texto: "Ampliar o acesso da população aos serviços de saúde",
 
-                afirmacao: "Investir em ações de prevenção e vacinação."
+                afirmacao: ["Investir em ações de prevenção e vacinação.",
+                "Melhorar os atendimentos nas UBS ."
+                ]
             },
             {
                 texto:  "Melhorar o saneamento básico e o acesso à água potável."
