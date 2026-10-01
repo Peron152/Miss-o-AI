@@ -26,11 +26,15 @@ export const perguntas = [
             alternativas: [
                 {
                     texto: "Universalidade: Garantia de que todos os cidadãos têm direito de usar o SUS.",
-                    afirmacao: "A Universalidade significa que a saúde pública no Brasil é para todo mundo, sem exceções ou necessidade de pagar."
+                    afirmacao: ["A Universalidade significa que a saúde pública no Brasil é para todo mundo, sem exceções ou necessidade de pagar.",
+                        "todos os cidadãos tem direito ao SUS. "
+                    ]
                 },
                 {
                     texto:  "Equidade: Tratamento prioritário e diferenciado para quem mais necessita de cuidados. ",
-                    afirmacao: "A Equidade significa ter foco nas necessidades de cada um, oferecendo mais ajuda a quem se encontra em situação de maior vulnerabilidade."
+                    afirmacao: ["A Equidade significa ter foco nas necessidades de cada um, oferecendo mais ajuda a quem se encontra em situação de maior vulnerabilidade.",
+                    "quem tiver mais vulnerabilidade tende ser ajudado mais."
+                    ]
                 }    
                
             ]
@@ -41,12 +45,16 @@ export const perguntas = [
             alternativas: [
                 {
                     texto: "Vacinação em massa: Protege a população contra diversas doenças infecciosas e evita epidemias.",
-                    afirmacao: "A vacinação em massa é uma das medidas preventivas mais eficazes da saúde pública, pois gera imunidade coletiva e impede que vírus e bactérias voltem a circular na sociedade."
+                    afirmacao: ["A vacinação em massa é uma das medidas preventivas mais eficazes da saúde pública, pois gera imunidade coletiva e impede que vírus e bactérias voltem a circular na sociedade.",
+                        "a vacina deve ser fornecido  toda a população. "
+                    ]
                 },
                 {
                     texto:    "Eliminação de água parada: Ação de combate e prevenção ao mosquito transmissor da Dengue, Zika e Chikungunya.",
                
-                    afirmacao: "A eliminação de água parada é uma medida essencial de vigilância em saúde, reduzindo os criadouros do mosquito Aedes aegypti e protegendo toda a comunidade contra arboviroses."
+                    afirmacao: ["A eliminação de água parada é uma medida essencial de vigilância em saúde, reduzindo os criadouros do mosquito Aedes aegypti e protegendo toda a comunidade contra arboviroses.",
+                        "tomar cuidado com todos os lugares a onde tem água parada."
+                    ]
                 }    
                
             ]
