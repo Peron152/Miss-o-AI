@@ -11,9 +11,11 @@ export const perguntas = [
                 ]
             },
             {
-                texto:  "Melhorar o saneamento básico e o acesso à água potável."
+                texto:  "Melhorar o saneamento básico e o acesso à água potável.",
 ",
-                afirmacao: "Promover campanhas de educação e conscientização sobre saúde."
+                afirmacao: ["Promover campanhas de educação e conscientização sobre saúde.",
+                "usar melhor o dinheiro público para a saúde. "
+                ]
             }    
            
         ]
