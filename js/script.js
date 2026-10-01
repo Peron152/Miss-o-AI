@@ -45,8 +45,12 @@ function mostraResultado(){
     caixaPerguntas.textContent = "Olha só o que podemos afirmar sobre você...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
+    botaoJogarNovamente.addEventListener("click", jogaNovamente());
 }
 
-
+function jogaNovamente(){
+    atual = 0;
+    historiaFinal = "";
+    mostraPergunta();
 
 mostraPergunta();
